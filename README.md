@@ -1,20 +1,20 @@
-# simiyu.github.io
+# geoffy1.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://simiyu1.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://geoffy1.github.io).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/simiyu1/simiyu.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/geoffy1/geoffy1.github.io/blob/main/Screenshots/1.png" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Paul Simiyu**
+👤 **Geofrey Simiyu**
 
-* LinkedIn: [@paul-simiyu](https://www.linkedin.com/in/paul-simiyu/)
-* GitHub: [@simiyu1](https://github.com/simiyu1)
+* LinkedIn: [@Geofrey (Simiyu) NJOGU](https://www.linkedin.com/in/geofrey-njogu-simiyu/)
+* GitHub: [@geoffy1](https://github.com/geoffy1)
